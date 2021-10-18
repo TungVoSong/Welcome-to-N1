@@ -1,19 +1,15 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Xin chào cô và các bạnnn!!!!',
+    introDesc: `Mọi người có biết là gặp được mọi người là điều tuyệt dzời nhất với bọn tớ không???? `,
+    btnIntro: 'Thôi ngưng tởm quáaaa!!!!!',
+    title: 'Nhân dịp 20/10 bọn tớ chúc mọi người mang nhiễm sắc thể XX luôn xinh đẹp...à mà...😙',
+    desc: 'Khen xinh nữa thì là THỪA nên là chúc các bạn thi đỗ Đại Học/thành công trong công việc và luôn vui vẻ nhaa!!!',
+    btnYes: 'Chấp nhận lời chúc này:))',
+    btnNo: 'Còn gì nữa không tiếp điii',
+    question:'Trên thế giới hơn 7 tỉ người mà sao chúng ta lại gặp nhau????',
+    btnReply: 'Duyên đấy xời','Vẫn là duyên thôi',
+    reply: 'Duyên cả đấy he:)))',
+    mess: 'Nghe vô lý mà cũng hợp lý đấy',
+    messDesc: 'Hẹn các bạn 1 dịp pùng lổ không xa nhá:)))',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
