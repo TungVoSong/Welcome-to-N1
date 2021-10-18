@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Chấp nhận lời chúc này:))',
     btnNo: 'Còn gì nữa không tiếp điii',
     question:'Trên thế giới hơn 7 tỉ người mà sao chúng ta lại gặp nhau????',
-    btnReply: 'Duyên đấy xời','Vẫn là duyên thôi',
+    btnReply: 'Duyên đấy xời',
     reply: 'Duyên cả đấy he:)))',
     mess: 'Nghe vô lý mà cũng hợp lý đấy',
     messDesc: 'Hẹn các bạn 1 dịp pùng lổ không xa nhá:)))',
