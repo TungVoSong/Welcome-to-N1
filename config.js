@@ -9,7 +9,6 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao chúng ta lại gặp nhau????',
     btnReply: 'Duyên đấy xời',
     reply: 'Duyên cả đấy he:)))',
-    reply: 'Vẫn là duyên thôi chấp nhận đi:))',
     mess: 'Nghe vô lý mà cũng hợp lý đấy',
     messDesc: 'Hẹn các bạn 1 dịp pùng lổ không xa nhá:)))',
     btnAccept: 'Okiiiii lun <3',
