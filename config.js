@@ -2,7 +2,8 @@ const CONFIG = {
     introTitle: 'Xin chào cô và các bạnnn!!!!',
     introDesc: `Mọi người có biết là gặp được mọi người là điều tuyệt dzời nhất với bọn tớ không???? `,
     btnIntro: 'Thôi ngưng tởm quáaaa!!!!!',
-    title: 'Nhân dịp 20/10 bọn tớ chúc mọi người mang nhiễm sắc thể XX thi đỗ Đại Học/thành công trong công việc và luôn vui vẻ nhaa!!!😙',
+    title: 'Nhân dịp 20/10 bọn tớ chúc mọi người mang nhiễm sắc thể XX 
+    thi đỗ Đại Học/thành công trong công việc và luôn vui vẻ nhaa!!!😙',
     desc: 'Khen xinh nữa thì là RẤT THỪA nên là bỏ quaa ồ kế!!!',
     btnYes: 'Chấp nhận lời chúc này:))',
     btnNo: 'Còn gì nữa không tiếp điii',
