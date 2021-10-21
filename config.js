@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'Thôi ngưng xạo tởm quáaaa!!!!!',
     title: 'Nhân dịp 20/10 bọn tớ chúc mọi người mang nhiễm sắc thể XX thi đỗ Đại Học/thành công trong công việc và luôn vui vẻ nhaa!!!😙',
     desc: 'Khen xinh nữa thì là RẤT THỪA nên là bỏ quaa ồ kế!!!',
-    btnYes: 'Chấp nhận lời chúc này:))',
+    btnYes: 'Chấp nhận lời chúc này:)',
     btnNo: 'Không chấp nhận đấy lewlew:)',
     question:'Trên thế giới hơn 7 tỉ người mà sao chúng ta lại gặp nhau????',
     btnReply: 'Duyên đấy xời',
