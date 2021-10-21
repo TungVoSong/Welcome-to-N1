@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Nghe vô lý mà cũng hợp lý đấy',
     messDesc: 'Hẹn các bạn 1 dịp pùng lổ không xa nhá:)))',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.youtube.com/watch?v=JMgj0inokSc' 
+    messLink: 'https://drive.google.com/file/d/1zT8zOAQ049pJzxwTKoltaAwFVKamF3Pv/view?usp=sharing' 
 }
